@@ -1,0 +1,3 @@
+//python code//
+student_name="Adityasinghai"
+print("the name of my branch in my name is:",student_name[2:5])
